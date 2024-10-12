@@ -17,13 +17,14 @@ An application for automated movement of cursor. Good for keeping computer awake
 1. Navigate to the directory
     ```bash
     cd autocursor
+    ```
     
 2. Download and install the dependencies
     ```bash
     pip install -r requirements.txt
     ```
 
-2. Run the python script
+3. Run the python script
     ```bash
     python main.py
     ```   
